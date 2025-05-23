@@ -2,6 +2,8 @@
 
 Esse projeto se trata de um teste técnico de nivel junior. Você precisa construir um layout para a simulação de compra de imóvel, conforme o modelo aMORA.
 
+#### Acesse o site clicando [aqui](https://renchs.github.io/simulador-web-amora-frontend/)
+
 ### Acesse o backend do projeto clicando [aqui](https://github.com/Renchs/simulador-web-amora-backend)
 
 ## Funcionalidades
@@ -14,15 +16,9 @@ Simular os valores de uma compra de imóvel.
 
 ## Screenshots
 
-![Image](https://github.com/user-attachments/assets/224faa11-42f0-4642-bcfe-d7e1d2324513)
+![Image](https://github.com/user-attachments/assets/3ca39cac-b7a8-40c2-91e3-21cd579789e2)
 
 # Rodando localmente
-
-#### Observação Este projeto possui duas branches principais:
-- **master**: Consome uma API externa. Para rodar localmente essa branch, é necessário fornecer a URL da API do back-end.
-
-- **deploy**: Funciona de forma independente, sem depender de uma API externa.
-
 
 Antes de iniciar o projeto na master, retire o 'example' do arquivo .env na raiz e adicione a variável:
 
